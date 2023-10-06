@@ -5,7 +5,7 @@ using Splitwetz.Splitwise.Models;
 using System.Globalization;
 using System.Runtime.CompilerServices;
 
-var SplitwiseKey = "";
+var SplitwiseKey = "lDH64rJ4poYbDz1fbEGanBjnw7vHT2o5ylT3MsP9";
 
 var despesas = await readCsv();
 var groups = await getGroups();
